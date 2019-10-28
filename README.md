@@ -1,2 +1,22 @@
 # marec-2019
-leprab-2018-to-2019
+
+> leplab-2018-to-2019
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ yarn install
+
+# serve with hot reload at localhost:3000
+$ yarn dev
+
+# build for production and launch server
+$ yarn build
+$ yarn start
+
+# generate static project
+$ yarn generate
+```
+
+For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
